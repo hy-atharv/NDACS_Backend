@@ -1,4 +1,9 @@
 # NDACS Backend
+<img
+src="https://github.com/user-attachments/assets/f8322f50-302c-465c-ae63-1600ca614ef9"
+width=600
+/>
+
 Backend for the **National Disaster Alerts and Control System** for analyzing Media, News and Tweets and extracting and gathering information and classifying them into latest disasters in India. NDACS Software's Frontend utilizes this data for displaying Alerts, Status and Stats on the NDACS Dashboard. NDACS was built as a prototype submission for **Smart India Hackathon 2024**, **Problem Statement ID: 1687**.
 
 <p align="center">
